@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fullName {
+    text-align: center;
+}
+
+div {
+    margin: 25px;
+    height: auto;
+}
+
+hr {
+    margin: 10px;
+}
+
+li {
+    margin-left: 20px;
+}
+
+code {
+    font-size: 16px;
+}
